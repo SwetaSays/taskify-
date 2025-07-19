@@ -55,6 +55,17 @@ Taskify is a lightweight to-do manager app built using Flutter. It lets users ma
 
 APK :- https://drive.google.com/file/d/1a13sgtnmKAGzbW87p6mYKr-XyenNGqN6/view?usp=drive_link
 
+## Screenshots
+
+###  Task List
+![Task 1](screenShots/task1.jpg)
+
+### Task List
+![Task 2](screenShots/task2.jpg)
+
+### Task List
+![Task 3](screenShots/task3.jpg)
+
 ##  Getting Started
 
 ```bash
